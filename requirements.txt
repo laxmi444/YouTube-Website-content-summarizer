@@ -1,1 +1,11 @@
-
+langchain
+python-dotenv
+langchain_community
+langchain_core
+langchain_groq
+langchain_huggingface
+streamlit
+validators==0.28.1
+youtube_transcript_api
+unstructured
+trafilatura
