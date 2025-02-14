@@ -12,7 +12,7 @@ import trafilatura # a web scraping library optimized for extracting readable co
 st.set_page_config(page_title="Summarize text from Youtube or Websites")
 st.title("📜🤖 Smarter Summaries for YouTube & the Web! 🌟")
 st.subheader("Summarize URL")
-st.secrets["GROQ_API_KEY"]
+#st.secrets["GROQ_API_KEY"]
 
 # get groq api key and url(YT or website) to be summarized
 with st.sidebar:
